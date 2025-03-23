@@ -2,7 +2,7 @@
 
 
 ## Overview
-My **semester project** for "Machine Learning" subject.
+My **semester project** for "Computer Vision and Image Processing" subject.
 This project uses Machine Learning techniques to classify brain tumors from MRI scans. I used OpenCV for image processing and preprocessing.
 <br><br>
 
